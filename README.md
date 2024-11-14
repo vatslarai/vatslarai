@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Vatsla<br>- 👀 I’m interested in <br>- 🌱 I’m currently learning <br>- 💞️ I’m looking to collaborate on different fields of analytics<br>- ⚡ Fun fact : <br>
+- 👋 Hi, I’m Vatsla<br>- 👀 I’m interested in everything <br>- 🌱 I’m currently learning Python <br>- 💞️ I’m looking to collaborate on different fields of analytics<br>- ⚡ Fun fact : I am a very curious person apart from my career as well <br>
 
 
 ## 🌐 Socials:
